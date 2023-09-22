@@ -1,2 +1,2 @@
-# js5m-radiotowers
-A small script to use towers to locate players by phone number
+# js5m-celltowers
+A small script to uses towers to locate players by phone number
